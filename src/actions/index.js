@@ -1,5 +1,4 @@
-import {} from ''
-
-function selectBook (book) {
-console.log('a book has been seleced', book.title)
+export function selectBook (book) {
+  console.log(book)
+  console.log('a book has been seleced', book.title)
 }
