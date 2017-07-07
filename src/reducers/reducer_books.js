@@ -1,8 +1,8 @@
 export default function () {
   return [
-    { title: 'Heart of Darkness' },
-    { title: 'Banksy Streetart' },
-    { title: 'Harry Potter and the Goblet of Fire' },
-    { title: 'Digital Fortress' }
+    { title: 'Heart of Darkness', pages: 103 },
+    { title: 'Banksy Streetart', pages: 103 },
+    { title: 'Harry Potter and the Goblet of Fire', pages: 103 },
+    { title: 'Digital Fortress', pages: 103 }
   ]
 }

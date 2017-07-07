@@ -1,8 +1,7 @@
-export default function () {
-  return [
-    { title: 'Heart of Darkness' },
-    { title: 'Banksy Streetart' },
-    { title: 'Harry Potter and the Goblet of Fire' },
-    { title: 'Digital Fortress' }
-  ]
+export default function (state = null, action) {
+  switch (action.type) {
+    case 'BOOK_SELECTED':
+      return action.payload
+  }
+  return state
 }
