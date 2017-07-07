@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ReactReduxTinderClone
 
 Following along with this [Udemy Course](https://www.udemy.com/react-redux/)
 
